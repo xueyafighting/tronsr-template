@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [TRON]
+Role: [ROLE]
 
 ## Team Member 1
 
-Name: [name]
+Name: [XueYa]
 Role: [role]
 
 ## Team Member 2
 
-Name: [name]
+Name: [XueXiaoYa]
 Role: [role]
