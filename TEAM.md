@@ -1,14 +1,1 @@
-## Founder
-
-Name: [TRON]
-Role: [ROLE]
-
-## Team Member 1
-
-Name: [XueYa]
-Role: [role]
-
-## Team Member 2
-
-Name: [XueXiaoYa]
-Role: [role]
+The current TRON team radiates out from Beijing to Seoul, Tokyo, San Francisco and many other countries and regions, totaling more than 300 members. The technological backbones of TRON are experienced blockchain enthusiasts who were previously employed by internet giants such as Alibaba, Tencent and Baidu.
