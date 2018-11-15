@@ -1,1 +1,1 @@
-TRON is an ambitious project dedicated to the establishment of a truly decentralized Internet and its infrastructure.
+TRON is an ambitious project dedicated to the establishment of a truly decentralized Internet and its infrastructure. The TRON Protocol, one of the largest blockchain based operating systems in the world, offers base public blockchain support of high throughput, high scalability and high availability for all decentralized applications in the TRON ecosystem.
