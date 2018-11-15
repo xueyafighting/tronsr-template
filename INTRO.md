@@ -1,2 +1,1 @@
-A short introduction about your team
-THis is about my introduction about XueYa team.
+波场TRON是基于区块链的去中心化内容协议，其目标在于通过区块链与分布式存储技术，构建一个全球范围内的自由内容娱乐体系，这个协议可以让每个用户自由发布，存储，拥有数据，并通过去中心化的自治形式，以数字资产发行，流通，交易方式决定内容的分发、订阅、推送，赋能内容创造者，形成去中心化的内容娱乐生态。
